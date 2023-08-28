@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+jdstrata.com.au	TRUE	/	FALSE	1999999999	PHPSESSID	0f06ad0fb56c1234773a046dc38857f2
+
